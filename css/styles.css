@@ -12,12 +12,14 @@ h2 {
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
-  padding-bottom: : 10px;
+
+  margin: 20px auto;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  text-align: left;
 }
 
 p {
